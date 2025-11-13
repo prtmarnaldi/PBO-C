@@ -26,4 +26,3 @@ class LuasLingkaran {
         echo "udah ah cape";
     }
 }
-
